@@ -12,12 +12,20 @@ The results from the code are redistributed and commercially available.
 
 First, modify the config.json file.
 
-`SvgFile` : Basic svg file name.
-`NumberOfOutputFile` : number of files to be create.
-`Color1` : Random color 1 and the color code to be replaced.
-`Color2` : Random color 2 and the color code to be replaced.
-`Color3` : Random color 3 and the color code to be replaced (`Color3` is darker than `Color1` as the `Color3Brightness` value increases).
-`BackgroundColor`: BackgroundColor and the color code to be replaced.
-`BackgroundBrightness` : degree of darkness compared to Color 1.
+`SvgFile` : Basic svg file name
+
+`NumberOfOutputFile` : number of files to be create
+
+`Color1` : Random color 1 and the color code to be replaced
+
+`Color2` : Random color 2 and the color code to be replaced
+
+`Color3` : Random color 3 and the color code to be replaced (`Color3` is darker than `Color1` as the `Color3Brightness` value increases)
+
+`BackgroundColor`: BackgroundColor and the color code to be replaced
+
+`BackgroundBrightness` : degree of darkness compared to Color 1
+
 `OutputFileName` : Name of output file (without extension)
+
 
